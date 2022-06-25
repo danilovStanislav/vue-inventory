@@ -1,0 +1,5 @@
+[
+	{ "quantity": 5, "icon": "item-image1.svg", "position": 2 },
+	{ "quantity": 9, "icon": "item-image2.svg", "position": 5 },
+	{ "quantity": 14, "icon": "item-image3.svg", "position": 10 }
+]
