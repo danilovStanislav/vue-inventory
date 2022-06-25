@@ -4,7 +4,7 @@
 			<aside class="inventory__sidebar">
 				<img
 					class="sidebar__image"
-					src="/public/images/Img.png"
+					src="/images/Img.png"
 					alt="Sidebar img"
 				/>
 				<div class="inventory__skeleton sidebar__title"></div>
